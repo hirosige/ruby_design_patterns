@@ -1,5 +1,7 @@
 # Ruby Design Patterns
 
+## Progress (2/23)
+
 ### Creation
 - [ ] Factory Method
 - [ ] Abstract Factory
