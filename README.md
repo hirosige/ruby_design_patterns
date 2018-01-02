@@ -5,7 +5,7 @@
 ### Creation
 - [ ] Factory Method
 - [ ] Abstract Factory
-- [ ] Builder
+- [x] Builder
 - [ ] Prototype
 - [ ] Singleton
 
