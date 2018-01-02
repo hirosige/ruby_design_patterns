@@ -16,7 +16,7 @@
 - [x] Decorator
 - [ ] Facade
 - [ ] Flyweight
-- [ ] Proxy
+- [x] Proxy
 - [ ] Template Method
 
 ### Behavior

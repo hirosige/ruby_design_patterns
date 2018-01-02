@@ -1,3 +1,7 @@
+Dir[File.expand_path('../../proxies', __FILE__) << '/*.rb'].each do |file|
+  require file
+end
+
 Dir[File.expand_path('../../commands', __FILE__) << '/*.rb'].each do |file|
   require file
 end
