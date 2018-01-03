@@ -1,6 +1,6 @@
 # Ruby Design Patterns
 
-## Progress (2/23)
+## Progress (5/23)
 
 ### Creation
 - [ ] Factory Method
